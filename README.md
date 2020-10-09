@@ -6,7 +6,7 @@ link project and data:  https://drive.google.com/file/d/1YU5ZLPXBXxCfFjoBkPjp59J
 
 Demo: https://youtu.be/Hr5lNk4cx-0
 
-weight file (yolov5m) : https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data
+weight file (yolov5m) : https://drive.google.com/file/d/1JqAs_xqVK21HvYV9tJdjcv17OG2Wv7fj/view?usp=sharing
 
 Using: follow the excellent tutorial on yolov5 git https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data
 
